@@ -17,6 +17,6 @@ we could see the following visualisation in 3D for 5 object classes:
 
 The accuracy of object instance recognition is 91% for current implementation.
 
-Pose estimation accuracy can be seen on the histogram: 
+Pose estimation accuracy can be seen on the histogram (with horisontal axis defining angles' degrees): 
 
 ![alt text](https://github.com/DianaDI/cvdl/blob/master/src/hist.png)
